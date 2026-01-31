@@ -10,7 +10,6 @@ a clean, engaging, and intuitive interface that supports focus, consistency, and
 
 ## 🚀 Tech Stack Used
 
-- **Next.js (App Router)**
 - **React**
 - **Tailwind CSS**
 - **TypeScript**
