@@ -62,16 +62,11 @@ No backend services or APIs are implemented, as the focus is purely on frontend 
 ## 🌐 Live Demo
 
 🔗 **Deployed URL:**  
-<YOUR_VERCEL_DEPLOYMENT_URL>
+https://qotd-frontend-ebon.vercel.app/
 
 ---
 
-## 📂 GitHub Repository
 
-🔗 **Repository Link:**  
-<YOUR_GITHUB_REPOSITORY_URL>
-
----
 
 ## 📌 Notes
 
