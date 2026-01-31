@@ -1,30 +1,79 @@
-# Edtech QOTD frontend
+# QOTD – Question of the Day (Frontend)
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This project is a **frontend-only implementation** of a **Question of the Day (QOTD)** experience
+for an edtech platform similar to **TechLearn Solutions**.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ananya-singhs-projects-664104c4/v0-qotd-frontend)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/bAL7Bk27jeA)
+The goal of this page is to motivate students to solve **one DSA problem daily** while providing
+a clean, engaging, and intuitive interface that supports focus, consistency, and progress tracking.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Tech Stack Used
 
-## Deployment
+- **Next.js (App Router)**
+- **React**
+- **Tailwind CSS**
+- **TypeScript**
+- **Vercel** (Deployment)
 
-Your project is live at:
+This stack was chosen to ensure modern frontend practices, scalability, and fast performance.
 
-**[https://vercel.com/ananya-singhs-projects-664104c4/v0-qotd-frontend](https://vercel.com/ananya-singhs-projects-664104c4/v0-qotd-frontend)**
+---
 
-## Build your app
+## 🎨 Layout & Design Decisions
 
-Continue building your app on:
+- The **Question title, difficulty, and problem statement** are placed at the top to immediately
+  orient the user.
+- The **coding area and primary CTA (Run / Submit)** are visually dominant to encourage action.
+- Secondary information such as **statistics, leaderboard, and hints** is placed below the main
+  problem area to reduce cognitive load.
+- A **monotone blue color palette** is used to maintain focus and convey trust and clarity.
+- The layout follows a **mobile-first, responsive design** to support students practicing on any device.
 
-**[https://v0.app/chat/bAL7Bk27jeA](https://v0.app/chat/bAL7Bk27jeA)**
+---
 
-## How It Works
+## 📈 How This Page Encourages Daily Engagement
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- The **“Question of the Day”** framing promotes habit formation.
+- A **streak indicator** (mocked) motivates consistency.
+- **Statistics cards** provide instant feedback on performance.
+- A **leaderboard** introduces healthy competition.
+- A **subscribe / notify CTA** encourages users to return daily for new challenges.
+
+---
+
+## 🧪 Data Handling
+
+All data used in this project is **static / mock data**.
+No backend services or APIs are implemented, as the focus is purely on frontend design and UX.
+
+---
+
+## 🔧 What I Would Improve With More Time
+
+- Integrate a real code execution environment (sandbox)
+- Add user authentication and persistent streak tracking
+- Backend-powered leaderboard and analytics
+- Accessibility improvements (ARIA labels, keyboard navigation)
+- Optional dark mode for better usability
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Deployed URL:**  
+<YOUR_VERCEL_DEPLOYMENT_URL>
+
+---
+
+## 📂 GitHub Repository
+
+🔗 **Repository Link:**  
+<YOUR_GITHUB_REPOSITORY_URL>
+
+---
+
+## 📌 Notes
+
+This project focuses on **UI/UX clarity, layout planning, and frontend fundamentals**,
+with an emphasis on creating a distraction-free and motivating learning experience for students.
