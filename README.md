@@ -54,8 +54,6 @@ No backend services or APIs are implemented, as the focus is purely on frontend 
 - Integrate a real code execution environment (sandbox)
 - Add user authentication and persistent streak tracking
 - Backend-powered leaderboard and analytics
-- Accessibility improvements (ARIA labels, keyboard navigation)
-- Optional dark mode for better usability
 
 ---
 
